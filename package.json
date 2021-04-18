@@ -1,0 +1,27 @@
+{
+  "name": "pokerplay",
+  "version": "1.0.8",
+  "description": "Bot discord Poker games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "DVLaD#6969",
+  "license": "ISC",
+  "token": "TOKEN BOT",
+  "tokenapi": "TOKEN API WEBHOOK",
+  "webhookport": "PORT WEBHOOK",
+  "langue": [
+    "france",
+    "english"
+  ],
+  "prefix": "pk!",
+  "dependencies": {
+    "@top-gg/sdk": "^3.0.5",
+    "dbl.js": "^1.5.0",
+    "dblapi.js": "^2.4.1",
+    "discord.js": "^12.2.0",
+    "express": "^4.17.1",
+    "random-puppy": "^1.1.0"
+  }
+}
