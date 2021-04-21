@@ -20,7 +20,7 @@ module.exports.run = async (client) => {
                     .setDescription(`:arrow_up: • \`${user.username}#${user.discriminator}\` a voté pour \`POKERPLAY\`, Merci infiniment ! (+ 5000$)\n\n__Total ce mois-ci__ : **${bot.monthlyPoints} votes**\n\n[Votez vous aussi !](https://top.gg/bot/724926316859621427/vote)`)
                     .setFooter(user.username, userr.displayAvatarURL())
                     .setTimestamp()
-                    client.channels.cache.get("736165989204361236").send(embedVote).then(async m => {await m.react('❤️')});
+                    client.channels.cache.get("736165989204361236").send(embedVote).then(r => {r.react('❤️')});
                 });
             })
             .catch(error => console.log(error))
