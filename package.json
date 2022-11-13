@@ -8,9 +8,9 @@
   },
   "author": "DVLaD#6969",
   "license": "ISC",
-  "token": "TOKEN BOT",
-  "tokenapi": "TOKEN API WEBHOOK",
-  "webhookport": "PORT WEBHOOK",
+  "token": "NzI0OTI2MzE2ODU5NjIxNDI3.XvHSPg.Y07ME8F8sw5B5N1stPmYLAbIqkE",
+  "tokenapi": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjcyNDkyNjMxNjg1OTYyMTQyNyIsImJvdCI6dHJ1ZSwiaWF0IjoxNjA4MzkzMTYzfQ.ijQ6P8jdTN3BGb8yjsxVM_2JsdRNEBaUgz9wfLZBvmg",
+  "webhookport": "1263",
   "langue": [
     "france",
     "english"
